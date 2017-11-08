@@ -34,7 +34,12 @@ td{
   padding: 40px;
 }
 h1{color: rgb(117, 117, 117);}
-
+#Update{
+  width: 400px;
+  padding: 10px;
+  opacity: .5;
+  background-color: rgb(117,117,255);
+}
 .linkIcon{
   width: 200px;
   height: 200px;
@@ -45,3 +50,4 @@ h1{color: rgb(117, 117, 117);}
 .linkIcon:hover{
   opacity: 1.0;
 }
+#
