@@ -7,6 +7,9 @@
   padding-bottom: 0px;
   z-index: 10;
 }
+img{
+  width:100%;
+}
 #headerfiller{
   height: 160px;
   width: 100%;
