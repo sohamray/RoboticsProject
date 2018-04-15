@@ -35,11 +35,14 @@ td{
 }
 h1{color: rgb(117, 117, 117);}
 #Update{
-  width: 400px;
+  width: 30%;
   padding: 10px;
   opacity: .5;
   background-color: rgb(117,117,255);
-  display: inline;
+  float: left;
+  height: 300px;
+overflow: scroll;
+    
 }
 .linkIcon{
   width: 200px;
