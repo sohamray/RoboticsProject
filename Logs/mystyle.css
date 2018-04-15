@@ -39,6 +39,7 @@ h1{color: rgb(117, 117, 117);}
   padding: 10px;
   opacity: .5;
   background-color: rgb(117,117,255);
+  class: inline;
 }
 .linkIcon{
   width: 200px;
