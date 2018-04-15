@@ -20,6 +20,9 @@
   left: 0px;
   right: 0px;
 }
+.header:hover{
+  background-color: rgb(230,230,230);
+}
 body{
   text-align: center;
 }
